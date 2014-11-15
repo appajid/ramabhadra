@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0C36_uni0C3F.abvs" format="1">
+  <advance width="631"/>
+  <outline>
+    <contour>
+      <point x="498" y="169" type="curve" smooth="yes" name="hr00"/>
+      <point x="498" y="146"/>
+      <point x="489" y="125"/>
+      <point x="471" y="106" type="curve" smooth="yes"/>
+      <point x="453" y="87"/>
+      <point x="432" y="78"/>
+      <point x="408" y="78" type="curve" smooth="yes"/>
+      <point x="353" y="78"/>
+      <point x="325" y="108"/>
+      <point x="325" y="169" type="curve" smooth="yes"/>
+      <point x="325" y="220"/>
+      <point x="364" y="259"/>
+      <point x="413" y="259" type="curve" smooth="yes"/>
+      <point x="462" y="259"/>
+      <point x="498" y="217"/>
+    </contour>
+    <contour>
+      <point x="388" y="498" type="curve" smooth="yes"/>
+      <point x="388" y="477"/>
+      <point x="377" y="466"/>
+      <point x="354" y="466" type="curve" smooth="yes"/>
+      <point x="330" y="466"/>
+      <point x="318" y="477"/>
+      <point x="318" y="498" type="curve" smooth="yes"/>
+      <point x="318" y="520"/>
+      <point x="330" y="531"/>
+      <point x="354" y="531" type="curve" smooth="yes"/>
+      <point x="377" y="531"/>
+      <point x="388" y="520"/>
+    </contour>
+    <contour>
+      <point x="606" y="173" type="curve" smooth="yes"/>
+      <point x="606" y="210"/>
+      <point x="595" y="245"/>
+      <point x="573" y="278" type="curve" smooth="yes"/>
+      <point x="552" y="311"/>
+      <point x="532" y="329"/>
+      <point x="515" y="332" type="curve"/>
+      <point x="560" y="389" type="line"/>
+      <point x="575" y="414"/>
+      <point x="583" y="437"/>
+      <point x="583" y="458" type="curve" smooth="yes"/>
+      <point x="583" y="501"/>
+      <point x="568" y="537"/>
+      <point x="539" y="566" type="curve" smooth="yes"/>
+      <point x="507" y="600"/>
+      <point x="466" y="617"/>
+      <point x="416" y="617" type="curve" smooth="yes"/>
+      <point x="307" y="617"/>
+      <point x="231" y="567"/>
+      <point x="231" y="490" type="curve" smooth="yes"/>
+      <point x="231" y="426"/>
+      <point x="286" y="395"/>
+      <point x="349" y="395" type="curve" smooth="yes"/>
+      <point x="382" y="395"/>
+      <point x="408" y="402"/>
+      <point x="429" y="417" type="curve" smooth="yes"/>
+      <point x="456" y="438"/>
+      <point x="470" y="466"/>
+      <point x="470" y="501" type="curve"/>
+      <point x="484" y="499"/>
+      <point x="491" y="485"/>
+      <point x="491" y="458" type="curve" smooth="yes"/>
+      <point x="491" y="425"/>
+      <point x="463" y="392"/>
+      <point x="407" y="360" type="curve"/>
+      <point x="328" y="363" type="line" smooth="yes"/>
+      <point x="245" y="366"/>
+      <point x="176" y="345"/>
+      <point x="120" y="310" type="curve" smooth="yes"/>
+      <point x="55" y="269"/>
+      <point x="18" y="209"/>
+      <point x="18" y="137" type="curve"/>
+      <point x="130" y="137" type="line"/>
+      <point x="129" y="153" type="line" smooth="yes"/>
+      <point x="127" y="179"/>
+      <point x="140" y="204"/>
+      <point x="161" y="227" type="curve" smooth="yes"/>
+      <point x="186" y="254"/>
+      <point x="215" y="268"/>
+      <point x="250" y="268" type="curve"/>
+      <point x="229" y="237"/>
+      <point x="218" y="202"/>
+      <point x="218" y="164" type="curve" smooth="yes"/>
+      <point x="218" y="112"/>
+      <point x="236" y="70"/>
+      <point x="271" y="39" type="curve" smooth="yes"/>
+      <point x="306" y="8"/>
+      <point x="349" y="-7"/>
+      <point x="400" y="-7" type="curve" smooth="yes"/>
+      <point x="452" y="-7"/>
+      <point x="499" y="11"/>
+      <point x="542" y="47" type="curve" smooth="yes"/>
+      <point x="585" y="83"/>
+      <point x="606" y="125"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="-7" width="85" />
+      <hstem pos="259" width="104" />
+      <hstem pos="395" width="71" />
+      <hstem pos="531" width="86" />
+      <vstem pos="18" width="111" />
+      <vstem pos="218" width="107" />
+      <vstem pos="231" width="87" />
+      <vstem pos="388" width="82" />
+      <vstem pos="491" width="92" />
+      <vstem pos="498" width="108" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

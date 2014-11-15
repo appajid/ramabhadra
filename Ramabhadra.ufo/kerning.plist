@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>uni0C36_uni0C40.abvs_uni0C30_un</key>
+  <dict>
+    <key>uni0C36_uni0C4D.blwf</key>
+    <integer>218</integer>
+  </dict>
+  <key>uni0C36_uni0C3F.abvs_uni0C30_un</key>
+  <dict>
+    <key>uni0C36_uni0C4D.blwf</key>
+    <integer>214</integer>
+  </dict>
+  <key>uni0C36_uni0C40_uni0C30_uni0C4D</key>
+  <dict>
+    <key>uni0C36_uni0C4D.blwf</key>
+    <integer>214</integer>
+  </dict>
+  <key>uni0C15</key>
+  <dict>
+    <key>uni0C1F_uni0C4D.blwf_uni0C30_un</key>
+    <integer>159</integer>
+    <key>uni0C24_uni0C4D.blwf_uni0C30_un</key>
+    <integer>70</integer>
+  </dict>
+</dict>
+</plist>
