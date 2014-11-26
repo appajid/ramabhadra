@@ -5,7 +5,7 @@
   <key>ascender</key>
   <integer>895</integer>
   <key>capHeight</key>
-  <integer>600</integer>
+  <integer>-1</integer>
   <key>copyright</key>
   <string>Copyright (c) 2012, AP Society for Knowledge Networks, Hyderabad, INDIA.</string>
   <key>descender</key>
@@ -30,9 +30,9 @@
   <key>openTypeNameDesignerURL</key>
   <string></string>
   <key>openTypeNameLicense</key>
-  <string>SIL Open Font License v1.1</string>
+  <string>GNU General Public License 2.0</string>
   <key>openTypeNameLicenseURL</key>
-  <string>http://scripts.sil.org/OFL</string>
+  <string>http://www.gnu.org/copyleft/gpl.html</string>
   <key>openTypeNameManufacturer</key>
   <string>Andhrapradesh Society for Knowledge Networks</string>
   <key>openTypeNameManufacturerURL</key>
@@ -114,12 +114,8 @@
   <integer>7</integer>
   <key>postscriptBlueValues</key>
   <array>
-    <integer>-7</integer>
     <integer>0</integer>
-    <integer>475</integer>
-    <integer>475</integer>
-    <integer>600</integer>
-    <integer>612</integer>
+    <integer>0</integer>
   </array>
   <key>postscriptUniqueID</key>
   <integer>-1</integer>
@@ -131,11 +127,6 @@
   <string>Ramabhadra</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
-  <key>postscriptOtherBlues</key>
-  <array>
-    <integer>-136</integer>
-    <integer>-127</integer>
-  </array>
   <key>postscriptStemSnapH</key>
   <array>
     <integer>90</integer>
@@ -169,7 +160,7 @@
   <key>year</key>
   <integer>0</integer>
   <key>xHeight</key>
-  <integer>475</integer>
+  <integer>-1</integer>
   <key>macintoshFONDName</key>
   <string>Ramabhadra</string>
   <key>macintoshFONDFamilyID</key>

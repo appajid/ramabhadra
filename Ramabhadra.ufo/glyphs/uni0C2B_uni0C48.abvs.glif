@@ -149,10 +149,9 @@
     <hintset pointTag="hr00">
       <hstem pos="-260" width="86" />
       <hstem pos="-126" width="120" />
-      <hstem pos="-126" width="90" />
       <hstem pos="-114" width="78" />
-      <hstem pos="-9" width="92" />
       <hstem pos="-9" width="100" />
+      <hstem pos="-9" width="92" />
       <hstem pos="199" width="88" />
       <hstem pos="348" width="102" />
       <hstem pos="359" width="85" />

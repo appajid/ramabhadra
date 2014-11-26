@@ -63,7 +63,6 @@
       <hstem pos="-171" width="69" />
       <hstem pos="264" width="69" />
       <hstem pos="405" width="71" />
-      <hstem pos="476" width="-20" />
       <vstem pos="1" width="80" />
       <vstem pos="212" width="90" />
     </hintset>

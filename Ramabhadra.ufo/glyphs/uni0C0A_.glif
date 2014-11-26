@@ -160,8 +160,6 @@
       <hstem pos="222" width="86" />
       <hstem pos="401" width="78" />
       <hstem pos="437" width="75" />
-      <hstem pos="476" width="-20" />
-      <hstem pos="606" width="-20" />
       <vstem pos="86" width="108" />
       <vstem pos="219" width="88" />
       <vstem pos="318" width="85" />

@@ -207,8 +207,8 @@
     <hintset pointTag="hr00">
       <hstem pos="-115" width="109" />
       <hstem pos="-9" width="106" />
-      <hstem pos="-7" width="98" />
       <hstem pos="-7" width="101" />
+      <hstem pos="-7" width="98" />
       <hstem pos="74" width="80" />
       <hstem pos="223" width="87" />
       <hstem pos="255" width="76" />

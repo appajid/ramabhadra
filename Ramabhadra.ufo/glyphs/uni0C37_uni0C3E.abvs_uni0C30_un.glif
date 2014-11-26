@@ -200,10 +200,8 @@
   <hintSetList>
     <hintset pointTag="hr00">
       <hstem pos="-237" width="79" />
-      <hstem pos="-110" width="-21" />
-      <hstem pos="-131" width="106" />
-      <hstem pos="-9" width="100" />
       <hstem pos="-9" width="92" />
+      <hstem pos="-9" width="100" />
       <hstem pos="67" width="97" />
       <hstem pos="199" width="88" />
       <hstem pos="259" width="78" />
